@@ -1,4 +1,4 @@
-# Hi, There ✌
+# Hi There ✌
 
 🔭 I’m currently working on <br>
 Improving my skills as a full-stack and mobile developer, focusing on Flutter projects and Laravel backend fundamentals<br>
