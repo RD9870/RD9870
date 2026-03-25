@@ -10,12 +10,12 @@ mid-level open-source projects, small Flutter apps, or full-stack web/mobile pro
 Code reviews, and guidance on building real-world portfolio projects.<br>
 
 🌱 I’m currently learning more about <br>
-Flutter and Dart, full-stack web development (frontend + backend), and working on teaching myself cloud basics, and improving spoken language skills.<br>
+Flutter and Dart, full-stack web development (frontend + backend), and working on teaching myself cloud basics.<br>
 
-💬 Ask me about <br> Turning ideas into apps, improving developer skills fast, and practical project workflows<br>
+💬 Ask me about <br> Turning ideas into apps, and practical project workflows<br>
 
-⚡ Fun fact avout me <br>
-I have a "dark mode" addiction—if an IDE or app doesn't have a dark theme, I feel like I'm staring directly into the sun.
+⚡ Fun fact about me <br>
+I have a "dark mode" addiction if an IDE or app doesn't have a dark theme, I feel like I'm staring directly into the sun.
 
 
 # 💻 Tech Stack:
